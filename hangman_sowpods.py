@@ -32,5 +32,5 @@ while guess!=word:
             guess[i]=y 
 
     print ("".join(guess))
-    print ("That was your {}.try {}".format(counter,3))
+    print ("That was your {}.try.".format(counter))
 
